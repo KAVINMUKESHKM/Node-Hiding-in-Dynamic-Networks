@@ -9,11 +9,11 @@ overlapping nodes, and compares results.
 1. **Clone the repositories:**
    ```bash
    # Clone this repository
-   git clone <your-repo-url>
-   cd PW-Final
+   git clone https://github.com/KAVINMUKESHKM/Node-Hiding-in-Dynamic-Networks.git
+   cd Node-Hiding-in-Dynamic-Networks
    
    # Clone the ArchAngel library (required dependency)
-   git clone <archangel-repo-url> angel
+   git clone https://github.com/GiulioRossetti/ANGEL.git angel
    ```
 
 2. **Install dependencies:**
@@ -52,7 +52,7 @@ overlapping nodes, and compares results.
 This project requires the **ArchAngel** community detection library, which must be cloned separately:
 
 ```bash
-git clone <archangel-repo-url> angel
+git clone https://github.com/GiulioRossetti/ANGEL.git angel
 ```
 
 The `angel` folder should be placed in the project root directory.
