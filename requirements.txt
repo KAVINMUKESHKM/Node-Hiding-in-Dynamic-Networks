@@ -1,0 +1,6 @@
+networkx>=2.8
+numpy>=1.21
+python-igraph>=0.9
+tqdm>=4.64
+# Optional/dev/test dependencies
+pytest>=7.0
